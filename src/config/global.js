@@ -2,7 +2,7 @@ export default {
   global: {
     componenteFormativo: 'Fundamentos de investigación',
     descripcionCurso:
-      'La investigación formativa tiene como objetivo la apropiación de conocimientos técnicos y tecnológicos, para la identificación y solución de problemas   en contextos sociales y productivos del país.<br><br>En el desarrollo de la competencia “Orientar investigación formativa según referentes técnicos"  se pretende integrar en el proceso formativo los componentes metodológicos para la formulación básica de proyectos de investigación, partiendo desde la identificación de un problema, la generación de ideas, el planteamiento de la pregunta de investigación, la determinación de objetivos, el reconocimiento de un marco teórico y el desarrollo metodológico para un ejercicio básico de investigación.<br><br>',
+      'La investigación formativa tiene como objetivo la apropiación de conocimientos técnicos y tecnológicos, para la identificación y solución de problemas   en contextos sociales y productivos del país.',
     imagenBannerPrincipal: require('@/assets/curso/banner-princiapal.svg'),
     fondoBannerPrincipal: require('@/assets/curso/fondo-banner-principal.png'),
   },

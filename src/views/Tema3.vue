@@ -37,7 +37,7 @@
           br
           |Saber buscar significa delimitar el tema con los conceptos relevantes que los sustenta, una vez se tiene claridad al respecto 
           b se identifican bases de datos especializadas, y material bibliográfico y cibergráfica relevante a estudiar. 
-          |Para apoyar las búsquedas de información, en la biblioteca virtual del SENA, puede encontrar la más importante información a consultar según necesidad
+          |Para apoyar las búsquedas de información, en la biblioteca virtual del SENA, puede encontrar la más importante información a consultar según necesidad.
         .col-lg-6
                 a.anexo.mb-4.mb-lg-0(href="http://biblioteca.sena.edu.co/" target="_blank")
                   .anexo__icono
@@ -80,7 +80,7 @@
         .cajon.color-acento-botones.color--botones-claro.p-4.mb-4
           p 
             b Así mismo en Google académico se pueden encontrar las últimas publicaciones de artículos 
-            |relacionados con el tema de búsqueda de su interés     
+            |relacionados con el tema de búsqueda de su interés.     
           .col-lg-6
                 a.anexo.mb-4.mb-lg-0(href="https://scholar.google.es/schhp?hl=es" target="_blank")
                   .anexo__icono

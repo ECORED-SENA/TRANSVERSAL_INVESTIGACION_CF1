@@ -8,6 +8,14 @@
         span
           i.fas.fa-info
       h1 Introducción
+    p.mb-5 La investigación formativa tiene como objetivo la apropiación de conocimientos técnicos y tecnológicos, para la identificación y solución de problemas   en contextos sociales y productivos del país. 
+      br
+      br
+      |En el desarrollo de la competencia “Orientar investigación formativa según referentes técnicos"  se pretende integrar en el proceso formativo los componentes metodológicos para la formulación básica de proyectos de investigación, partiendo desde la identificación de un problema, la generación de ideas, el planteamiento de la pregunta de investigación, la determinación de objetivos, el reconocimiento de un marco teórico y el desarrollo metodológico para un ejercicio básico de investigación.
+      br
+      br
+      |Desde esta perspectiva la investigación se convierte en una herramienta de aprendizaje para el aprendizaje, no solo es el componente metodológico, es una forma sistemática de organizar el pensamiento hasta convertirlo en una disciplina   que facilita la construcción de nuevos conocimientos útiles en el hacer profesional.   
+
     .row.mb-5 
       .col-lg-2.col-md-3.col-sm-4
         img(src="@/assets/curso/img1.svg", alt="Texto que describa la imagen")

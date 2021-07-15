@@ -139,17 +139,17 @@
           img(src='@/assets/curso/img13.svg', alt='Texto que describa la imagen')
 
       .tarjeta.color-acento-contenido.p-3(x="17.9%" y="32%")
-        p Observa, rastrea, pregunta, indaga, compara 
+        p Observa, rastrea, pregunta, indaga, compara. 
       .tarjeta.color-acento-contenido.p-3(x="17.9%" y="55%")
-        p Estudia minuciosamente los hechos  para analizarlos y establecer nuevas teorías
+        p Estudia minuciosamente los hechos  para analizarlos y establecer nuevas teorías.
       .tarjeta.color-acento-contenido.p-3(x="17.8%" y="78.3%")
-        p Requiere de  habilidades y experiencia para interpretar los hechos investigados   
+        p Requiere de  habilidades y experiencia para interpretar los hechos investigados.  
       .tarjeta.color-acento-contenido.p-3(x="76.7%" y="43%")
-        p Describe los hechos a partir de observar, rastrear, preguntar, indagar, comparar 
+        p Describe los hechos a partir de observar, rastrear, preguntar, indagar, comparar. 
       .tarjeta.color-acento-contenido.p-3(x="76.7%" y="67%")
-        p Explica de forma detallada  cada variable estudiada a partir de métodos rigurosos de análisis
+        p Explica de forma detallada  cada variable estudiada a partir de métodos rigurosos de análisis.
       .tarjeta.color-acento-contenido.p-3(x="77.5%" y="87.8%")
-        p Contrasta hipótesis, argumenta sus relaciones desde principios y teoría, demuestra nuevas teorías
+        p Contrasta hipótesis, argumenta sus relaciones desde principios y teoría, demuestra nuevas teorías.
     .row.justify-content-center.mb-5
       .col-lg-8 
         .cajon.color-acento-botones.color--botones-claro.p-4.mb-4
@@ -175,34 +175,34 @@
             caption Referencia Tabla - Norma APA
             tr
               th Método científico 
-              td Presenta un desarrollo lógico, observa, resuelve hipótesis, experimenta contrasta teorías y concluye 
+              td Presenta un desarrollo lógico, observa, resuelve hipótesis, experimenta contrasta teorías y concluye. 
             tr
               th Método experimental 
-              td Se caracteriza por controlar variables, atributos y características del objeto de estudio. Ejemplo (edad, nivel educativo,) compara las variables objeto de estudio
+              td Se caracteriza por controlar variables, atributos y características del objeto de estudio. Ejemplo (edad, nivel educativo,) compara las variables objeto de estudio.
             tr
               th Método teórico 
-              td Se utiliza para abordar problemas científicos, facilita la interpretación de datos empíricos y se utiliza para la construcción de una teoría científica
+              td Se utiliza para abordar problemas científicos, facilita la interpretación de datos empíricos y se utiliza para la construcción de una teoría científica.
             tr
               th Método estadístico 
-              td Tiene como finalidad determinar una muestra estadística, realizar análisis y procesamiento de la información, realizar interpretaciones a partir de datos
+              td Tiene como finalidad determinar una muestra estadística, realizar análisis y procesamiento de la información, realizar interpretaciones a partir de datos.
             tr
               th Métodos empíricos 
-              td Facilitan la lectura de la realidad desde un componente cultural, sensorial, funcionan desde la experiencia del investigador con la realidad.  Permiten la recolección de datos para validar las hipótesis 
+              td Facilitan la lectura de la realidad desde un componente cultural, sensorial, funcionan desde la experiencia del investigador con la realidad.  Permiten la recolección de datos para validar las hipótesis. 
             tr
               th Método investigación etnográfica 
-              td Se caracteriza por entender el sujeto en su contexto, predomina la observación participante de carácter cualitativo, estudia los fenómenos en su estado natural, tiende hacia un enfoque sociológico, antropológico de las ciencias humanas 
+              td Se caracteriza por entender el sujeto en su contexto, predomina la observación participante de carácter cualitativo, estudia los fenómenos en su estado natural, tiende hacia un enfoque sociológico, antropológico de las ciencias humanas. 
             tr
               th Método hermenéutico  
-              td Es un método   con un carácter social, estudia los comportamientos humanos, su nivel de análisis es cualitativo a partir de la interpretación de los hechos
+              td Es un método   con un carácter social, estudia los comportamientos humanos, su nivel de análisis es cualitativo a partir de la interpretación de los hechos.
             tr
               th Método fenomenológico 
-              td Es un método de investigación cualitativa, estudia los fenómenos, describe e interpreta y reflexiona sobre las experiencias vividas
+              td Es un método de investigación cualitativa, estudia los fenómenos, describe e interpreta y reflexiona sobre las experiencias vividas.
             tr
               th Métodos histórico 
-              td Estudia la trayectoria de los acontecimientos y leyes de manera objetiva 
+              td Estudia la trayectoria de los acontecimientos y leyes de manera objetiva. 
             tr
               th Método IAP Investigación Acción Participante
-              td Es un método de carácter social, el investigador desempeña un rol activo del grupo o comunidad a intervenir contribuye a cambiar la realidad desde su participación activa como facilitador del proceso
+              td Es un método de carácter social, el investigador desempeña un rol activo del grupo o comunidad a intervenir contribuye a cambiar la realidad desde su participación activa como facilitador del proceso.
     #t_2_7.titulo-segundo
       h2 2.7  La hipótesis
     .row.mb-5
@@ -233,7 +233,7 @@
     p.mb-5 Se le denominan técnicas al conjunto de herramientas e instrumentos utilizados para recolectar la información del proceso investigativo. La selección de la técnica depende del enfoque, el nivel de profundidad, método y forma de análisis requerido para desarrollar la investigación.
     h3 Características de las técnicas de recolección datos 
     LineaTiempoD.color-acento-contenido.mb-5
-        div(numero="1" titulo="Enfoque: Nivel investigativo").p-5 
+        div(numero="1" titulo="Enfoque: nivel investigativo").p-5 
           .tabla-a.color-acento-botones.mb-5 
             table
               thead
@@ -271,7 +271,7 @@
                       li 
                         i.fas.fa-check
                         | Cuali-cuantitativo
-        div(numero="2" titulo="Enfoque: Método").p-5 
+        div(numero="2" titulo="Enfoque: método").p-5 
           .tabla-a.color-acento-botones.mb-5 
             table
               thead
@@ -314,7 +314,7 @@
                       li 
                         i.fas.fa-check
                         | Cuali-cuantitativo
-        div(numero="3" titulo="Enfoque: Tipo de instrumento").p-5 
+        div(numero="3" titulo="Enfoque: tipo de instrumento").p-5 
           .tabla-a.color-acento-botones.mb-5 
             table
               thead
