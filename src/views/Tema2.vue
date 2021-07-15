@@ -96,7 +96,7 @@
           |A partir de la pregunta se construye el fundamento metodológico, se determinan los objetivos, se establece el marco teórico, se determina el nivel y la profundidad, se caracteriza la población objeto de estudio, se determinan los métodos, técnicas e instrumentos de investigación. Antes de determinar la pregunta de investigación es importante realizar lecturas sobre el tema, identificar ideas importantes de la situación problémica, entender el contexto y delimitar la investigación. 
           br
           br
-          |Para ampliar el tema puede observar el video sobre la pregunta de investigación  
+          |Para ampliar el tema puede observar el video sobre la pregunta de investigación: 
         .col-lg-6
           a.anexo.mb-4.mb-lg-0(href="https://youtu.be/OJPrmBjwoQA" target="_blank")
             .anexo__icono
